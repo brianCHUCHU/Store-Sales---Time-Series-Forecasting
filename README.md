@@ -4,7 +4,7 @@ This is a student Term Project in `Data Mining` by Prof. Anthony J.T. Lee, Natio
 
 ## Quick Links
 
-- [Data Mining Term Project](https://github.com/brianCHUCHU/Store-Sales---Time-Series-Forecasting): For detailed documentation in formal PDF format.
+- [Data Mining Term Project](https://github.com/brianCHUCHU/Store-Sales---Time-Series-Forecasting/blob/main/Store%20Sales%20-%20Time%20Series%20Forecasting.pdf): For detailed documentation in formal PDF format.
 - [Slides](https://github.com/brianCHUCHU/Store-Sales---Time-Series-Forecasting/blob/main/Slides.pdf): For presentation slides in PDF format.
 
 ## Store Sales Time Series Forecasting
